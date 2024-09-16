@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jhonny timaure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonny timaure" height="30" width="40" />LinkedIn</a>
 <a href="https://fb.com/jhonny timaure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhonny timaure" height="30" width="40" />FaceBook</a>
-<a href="https://instagram.com/jhonnytimaure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhonnytimaure" height="30" width="40" />Instam</a>
+<a href="https://instagram.com/jhonnytimaure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhonnytimaure" height="30" width="40" />Instagram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timaure&show_icons=true&locale=en" alt="timaure" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timaure&" alt="timaure" /></p>
+
+
+
+
