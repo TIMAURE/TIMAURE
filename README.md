@@ -1,6 +1,11 @@
- Hi there 👋
+  
+
+![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/user-attachments/assets/edca0e31-04cc-464b-86d9-34b9fcf45969)
+
 
 <h1 align="center">✨Hi 👋, I'm JHONNY TIMAURE 🖥️🗃️✨</h1>
+
+
 <h3 align="center">"Hello, I want to warmly welcome you to my space on the web. I am a Full Stack software developer and I would love to help you, as well as embark on a path where we both learn new things 🛠️."
 </h3>
 <h3>"✨I am known for my leadership skills, teamwork, problem-solving abilities, and customer service. I pay close attention to details and am a professional with strong communication skills, open to new opportunities and continuous learning.✨"</h3>
